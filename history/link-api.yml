@@ -1,7 +1,7 @@
-url: https://api.linknature.io
-status: down
-code: 404
-responseTime: 306
-lastUpdated: 2025-03-02T10:30:16.803Z
+url: https://api.linknature.io/system/print
+status: up
+code: 200
+responseTime: 703
+lastUpdated: 2025-03-02T11:02:19.541Z
 startTime: 2025-03-02T10:18:33.361Z
 generator: Upptime <https://github.com/upptime/upptime>
