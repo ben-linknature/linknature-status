@@ -4,19 +4,19 @@
     "url": "https://www.linknature.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.linknature.io.ico",
     "slug": "link-website",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 210,
-    "timeDay": 210,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
+    "status": "up",
+    "uptime": "84.59%",
+    "uptimeDay": "84.59%",
+    "uptimeWeek": "84.59%",
+    "uptimeMonth": "84.59%",
+    "uptimeYear": "84.59%",
+    "time": 196,
+    "timeDay": 196,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-03-02": 0
+      "2025-03-02": 5
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.linknature.io.ico",
     "slug": "link-api",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 490,
     "timeDay": 490,
     "timeWeek": 490,
     "timeMonth": 490,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-03-02": 30
+      "2025-03-02": 35
     }
   },
   {
