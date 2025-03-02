@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "time": 210,
+    "timeDay": 210,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.linknature.io.ico",
     "slug": "link-api",
     "status": "down",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
-    "time": 674,
-    "timeDay": 674,
-    "timeWeek": 674,
-    "timeMonth": 674,
-    "timeYear": 674,
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 490,
+    "timeDay": 490,
+    "timeWeek": 490,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-03-02": 0
+      "2025-03-02": 12
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "time": 146,
+    "timeDay": 146,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   }
 ]
