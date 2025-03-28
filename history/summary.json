@@ -4,7 +4,7 @@
     "url": "https://www.linknature.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.linknature.io.ico",
     "slug": "link-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 161,
     "timeMonth": 203,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-28": 0
+    }
   },
   {
     "name": "Link API",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.linknature.io.ico",
     "slug": "link-api",
     "status": "down",
-    "uptime": "90.85%",
+    "uptime": "89.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.82%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "90.85%",
+    "uptimeWeek": "62.35%",
+    "uptimeMonth": "89.75%",
+    "uptimeYear": "89.75%",
     "time": 461,
     "timeDay": 553,
     "timeWeek": 486,
     "timeMonth": 461,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-03-28": 188,
+      "2025-03-28": 639,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 276,
