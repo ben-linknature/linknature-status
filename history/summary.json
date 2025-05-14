@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linknature.io.ico",
     "slug": "link-website",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.56%",
+    "uptimeYear": "96.58%",
     "time": 321,
     "timeDay": 270,
     "timeWeek": 372,
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.linknature.io.ico",
     "slug": "link-api",
     "status": "down",
-    "uptime": "32.14%",
+    "uptime": "32.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "32.14%",
+    "uptimeYear": "32.03%",
     "time": 455,
     "timeDay": 540,
     "timeWeek": 408,
     "timeMonth": 481,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-05-14": 98,
+      "2025-05-14": 471,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -97,7 +97,7 @@
     "url": "https://app.linknature.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.linknature.io.ico",
     "slug": "link-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -108,6 +108,8 @@
     "timeWeek": 228,
     "timeMonth": 231,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   }
 ]
