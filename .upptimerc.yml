@@ -3,12 +3,12 @@ owner: ben-linknature # Your GitHub organization or username, where this reposit
 repo: linknature-status # The name of this repository
 
 sites:
-  - name: Link website
-    url: https://www.linknature.io
-  - name: Link API
-    url: https://api.linknature.io/system/print
-  - name: Link UI
-    url: https://app.linknature.io
+  # - name: Link website
+  #   url: https://www.linknature.io
+  # - name: Link API
+  #   url: https://api.linknature.io/system/print
+  # - name: Link UI
+  #   url: https://app.linknature.io
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Test Broken Site
